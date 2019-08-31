@@ -1,0 +1,38 @@
+html
+{
+    background-color: tomato;
+}
+main
+{
+    margin: 0 auto;
+    width: 70%;
+    background-color: #99AAAB;
+}
+img
+{
+    border: 2px groove blueviolet;
+    border-radius: 100%;
+    padding: 5px;
+    margin: 0 auto;
+    display: block;
+    height: 20vw;
+
+}
+h1
+{
+    font-size: 25px;
+    color: #902000;
+    font-family: "Bitstream Vera Sans Mono";
+}
+p::first-letter
+{
+    font-family: cursive;
+    font-size: 22px;
+    color: #fbe54e;
+}
+p
+{
+    margin: 5px;
+    font-size: 20px;
+    line-height: 2;
+}
